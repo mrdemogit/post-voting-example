@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PostList should render correctly 1`] = `
+<ForwardRef>
+  <UNDEFINED
+    author="author1"
+    comments={
+      Array [
+        Object {
+          "author": "author13",
+          "content": "contentTest13",
+          "uuid": "uuid13",
+          "votes": 13,
+        },
+      ]
+    }
+    content="contentTest1"
+    downvote={[Function]}
+    upvote={[Function]}
+    uuid="uuid1"
+    votes={-1}
+  />
+  <UNDEFINED
+    author="author3"
+    comments={Array []}
+    content="contentTest3"
+    downvote={[Function]}
+    upvote={[Function]}
+    uuid="uuid3"
+    votes={0}
+  />
+</ForwardRef>
+`;

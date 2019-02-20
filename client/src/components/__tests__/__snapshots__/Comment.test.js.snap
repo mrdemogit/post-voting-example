@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Comment should render correctly 1`] = `
+<ForwardRef>
+  <ForwardRef>
+    authorTest
+  </ForwardRef>
+  <div>
+    contentTest
+  </div>
+  <VoteSection
+    downvote={[MockFunction]}
+    upvote={[MockFunction]}
+    uuid="uuid1"
+    votes={123}
+  />
+</ForwardRef>
+`;

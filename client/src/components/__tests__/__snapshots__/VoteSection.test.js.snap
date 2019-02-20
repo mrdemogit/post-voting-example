@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`VoteSection should render correctly 1`] = `
+<React.Fragment>
+  <ForwardRef
+    onClick={[Function]}
+  >
+    <Arrow />
+  </ForwardRef>
+  <ForwardRef
+    onClick={[Function]}
+  >
+    <Arrow />
+  </ForwardRef>
+  <span>
+    123
+  </span>
+</React.Fragment>
+`;

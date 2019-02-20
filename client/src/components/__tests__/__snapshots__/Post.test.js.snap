@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Post should render correctly 1`] = `
+<ForwardRef>
+  <ForwardRef>
+    authorTest
+  </ForwardRef>
+  <div>
+    contentTest
+  </div>
+  <VoteSection
+    downvote={[Function]}
+    upvote={[Function]}
+    uuid="uuid1"
+    votes={123}
+  />
+  <UNDEFINED
+    author="author2"
+    content="contentTest2"
+    downvote={[Function]}
+    upvote={[Function]}
+    uuid="uuid2"
+    votes={-331}
+  />
+  <UNDEFINED
+    author="author3"
+    content="contentTest3"
+    downvote={[Function]}
+    upvote={[Function]}
+    uuid="uuid3"
+    votes={0}
+  />
+</ForwardRef>
+`;
